@@ -7,7 +7,9 @@
 ## Description
 
 The purpose of this application is to give the reader a better understanding of who I am, what I like to do, and what has happened in my life. It could be used by people who want to get to know me, people who want to employ me, or people who want to make fun of me for being boring.
-
+## Github
+* https://github.com/kevlycoppers/portfolio-redo
+* http://kevlycoppers.github.io/Portfolio/portfolio/
 ## Setup/Installation Requirements
 
 * Clone the git hub page
@@ -34,4 +36,3 @@ MIT
 
 Despite the inclusion of a copy right symbol on the page, this is open source
 Copyright (c) 2016 Levi Hopkins (k)
-  
