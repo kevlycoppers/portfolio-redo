@@ -1,0 +1,42 @@
+.jumbotron  {
+  background-image: url(../images/asics.jpg);
+  background-position: 10% 67.5%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: rgba(73, 73, 74, 0.7) 0px 0px 10px;
+}
+#personal-info{
+  text-align: center;
+  margin: auto;
+}
+#body-text {
+  font-size: 1.1em
+}
+.c-wrapper {
+  width: 80%;
+  margin: auto;
+}
+strong.strong-text {
+  font-size: .95em;
+}
+#link-info {
+  float: right;
+  margin-right: 10%
+}
+#link-info-list {
+  list-style: none;
+  margin-top: 1%
+}
+.hobbies-list {
+  list-style-type: none;
+}
+#project-links {
+  margin-left: 16%
+}
+#footer-text {
+  text-align: center;
+}
+#hr-change {
+  margin: 7px
+}
